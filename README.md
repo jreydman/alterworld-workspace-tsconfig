@@ -1,0 +1,1 @@
+alterworld-workspace-tsconfig [typescript]
